@@ -998,4 +998,3 @@ insert into dictionary(word) values('ямакис');
 insert into dictionary(word) values('ятанин');
 insert into dictionary(word) values('ятовье');
 insert into dictionary(word) values('ятрина');
-
